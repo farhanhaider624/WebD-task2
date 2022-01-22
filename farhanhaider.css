@@ -1,0 +1,46 @@
+body{
+    background-color:lightskyblue;
+    background-image: linear-gradient(rgb(173, 51, 255),	rgb(255, 51, 51), rgb(173, 51, 255));
+}
+div{
+    text-align: center;
+    align-content: center;
+    background-color: white;
+    border-radius:20px;
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    font-family: 'Bebas Neue', sans-serif;
+}
+h2{
+    font-family: 'Fredoka One', serif;
+}
+hr {
+    border-width: 2px;
+}
+img{
+    padding: 5px;
+    border: 2px solid;
+    border-color:rgb(173, 51, 255);
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+li{
+    font-size: 20px;
+}
+td.star{
+    color: yellow;
+}
+ul{
+    text-align: center;
+    list-style: inside;
+}
+form{
+    display: inline-flex;
+}
+
+
+
